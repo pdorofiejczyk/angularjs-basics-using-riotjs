@@ -1,0 +1,3 @@
+[submodule "lib/riotjs"]
+	path = lib/riotjs
+	url = https://github.com/moot/riotjs.git
